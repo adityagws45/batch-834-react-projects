@@ -1,0 +1,7 @@
+{
+  "employees": [
+    { "id": 1, "name": "Aditya Gawas", "role": "Java Dev", "salary": 50000 },
+    { "id": 2, "name": "Priyam garg", "role": "React Dev", "salary": 60000 },
+    { "id": 3, "name": "Axar Patel", "role": "Backend Eng", "salary": 70000 }
+  ]
+}
